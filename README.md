@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jeevitha K</h1>
 <h3 align="center">"Cloud Enthusiast | AWS Certified Cloud Practitioner | Passionate about Databases and Problem Solving". "Building Solutions, One Line of Code at a Time"</h3>
+<img align="right" width="400" src="https://github.com/user-attachments/assets/4781f3d2-7446-434d-b699-855eeec132d1">
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeevithak21&label=Profile%20views&color=0e75b6&style=flat" alt="jeevithak21" /> </p>
 
